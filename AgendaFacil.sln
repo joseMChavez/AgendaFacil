@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaFacil", "AgendaFacil\AgendaFacil.csproj", "{D7591090-371E-4C93-878B-9F9E44D2AFA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{D4D28807-C26B-4D1B-ADB7-0E79050044F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{A341007E-8F66-44DD-9B9E-7F0BAAB69366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7591090-371E-4C93-878B-9F9E44D2AFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7591090-371E-4C93-878B-9F9E44D2AFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7591090-371E-4C93-878B-9F9E44D2AFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7591090-371E-4C93-878B-9F9E44D2AFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D28807-C26B-4D1B-ADB7-0E79050044F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D28807-C26B-4D1B-ADB7-0E79050044F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D28807-C26B-4D1B-ADB7-0E79050044F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D28807-C26B-4D1B-ADB7-0E79050044F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A341007E-8F66-44DD-9B9E-7F0BAAB69366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A341007E-8F66-44DD-9B9E-7F0BAAB69366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A341007E-8F66-44DD-9B9E-7F0BAAB69366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A341007E-8F66-44DD-9B9E-7F0BAAB69366}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
